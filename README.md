@@ -2,23 +2,13 @@
 
 ## Overview
 
-TODO: Write a project description
+This project we were given generated balls on a webpage that hit the edges of the webpage and bounce off. We were tasked with creating an evil ball that when it would touch a ball, the ball would disappear. The evil ball moves using wasd keys as most desktop games. 
+
+To interact and see this project, clone it into an IDE that supports live preview. From there start the live preview instance and control the evil ball with wasd keys.
 
 ## Sources and Credits
 
-TODO: You must credit the sources and authors of any code, libraries, or other
-assets you use in your project. If you leave this section blank, your project
-will be considered in violation of the Academic Honesty policy unless you truly
-created everything from scratch with no outside help. If you need to use a
-source that you cannot credit (e.g. a classmate's work), you must get explicit
-permission from your instructor.
+- https://www.w3schools.com/js/js_htmldom_eventlistener.asp
+- https://www.shecodes.io/athena/57246-how-to-update-html-content-with-javascript
 
-A simple bulleted list below is sufficient. For example:
 
-- Bootstrap: https://getbootstrap.com/
-- jQuery: https://jquery.com/
-- Background image: https://unsplash.com/photos/...
-- Sound effects: https://freesound.org/people/...
-- Icons: https://fontawesome.com/
-- Fonts: https://fonts.google.com/
-- etc.
